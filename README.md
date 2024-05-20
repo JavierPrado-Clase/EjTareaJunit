@@ -7,9 +7,6 @@ Descripción breve del proyecto y su propósito.
 - [Requisitos](#requisitos)
 - [Instalación](#instalación)
 - [Importar Proyecto en Eclipse](#importar-proyecto-en-eclipse)
-- [Uso](#uso)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Requisitos
 
@@ -21,7 +18,7 @@ Descripción breve del proyecto y su propósito.
 
 1. Clona este repositorio en tu máquina local usando Git:
     ```sh
-    git clone https://github.com/tu_usuario/tu_repositorio.git
+    git clone https://github.com/JavierPrado-Clase/EjTareaJunit.git
     ```
 2. Navega al directorio del proyecto:
     ```sh
@@ -38,7 +35,7 @@ Para importar el proyecto en Eclipse, sigue estos pasos:
 4. Selecciona `Clone URI` y haz clic en `Next`.
 5. En la ventana de `Source Git Repository`, pega la URL del repositorio:
     ```sh
-    https://github.com/tu_usuario/tu_repositorio.git
+    https://github.com/JavierPrado-Clase/EjTareaJunit.git
     ```
    Completa los campos necesarios (como las credenciales de GitHub si es necesario) y haz clic en `Next`.
 6. Selecciona las ramas que deseas clonar y haz clic en `Next`.
